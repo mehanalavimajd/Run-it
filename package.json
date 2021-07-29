@@ -1,16 +1,16 @@
 {
-  "name": "runit",
+  "name": "nodewatch",
   "version": "1.0.0",
-  "description": "",
+  "description": "a library to run every javascript file every time that has changed",
   "scripts": {
     "test": "exit 0"
   },
   "bin": {
-    "runit": "./file.js"
+    "nodewatch":"./run.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehanalavimajd/Run-it"
+    "url": "https://github.com/mehanalavimajd/nodewatch"
   },
   "author": "mehan alavimajd",
   "license": "MIT",
