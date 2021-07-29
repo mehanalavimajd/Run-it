@@ -1,0 +1,20 @@
+{
+  "name": "runit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "bin": {
+    "runit": "./file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehanalavimajd/Run-it"
+  },
+  "author": "mehan alavimajd",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
