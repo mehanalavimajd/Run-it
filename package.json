@@ -1,7 +1,8 @@
 {
-  "name": "nodewatch",
-  "version": "1.0.0",
+  "name": "jswatch",
+  "version": "0.0.1",
   "description": "a library to run every javascript file every time that has changed",
+  "main": "./run.js",
   "scripts": {
     "test": "exit 0"
   },
